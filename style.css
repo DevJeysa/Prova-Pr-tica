@@ -1,0 +1,128 @@
+.banner {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    margin-top: -10px;
+    
+}
+article{
+    background-color: #fff;
+}
+article > p{
+    text-align: justify;
+}
+.titulo{
+        color: #fff;
+        text-align: center;
+        background-color: #df5025;
+        flex: 0 0;
+        width: 73.85%;
+        height: 70px;
+       margin-left: -6px;
+       margin-top: -70px;
+       position: absolute;
+        padding: 3px;
+        font-size:40px
+        
+}
+
+aside{
+    background-color: #6890dd;
+    color: #fff;
+    float: left;
+    width: 25%;
+    padding-left: auto;
+    height: 2000px;
+    position: absolute;
+    margin-top: -4px;
+    }
+
+.titesquerda{
+    color: #06234d;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.texesquerda{
+    text-align: justify;
+}
+
+.titesqbaixo{
+    color: #06234d;
+    margin-top: 50px;
+    text-align: center;
+}
+
+ul{
+    text-align: left;
+}
+
+
+.Segurança{
+    text-align:center
+}
+.Autoridade{
+    text-align:center
+}
+.VeD{
+    text-align:center
+}
+.GTR{
+    text-align:center
+}
+.p1{
+    text-align: justify;
+}
+.p2{
+    text-align: justify;
+}
+.p3{
+    text-align: justify;
+}
+.p4{
+    text-align: justify;
+}
+.p5{
+    text-align: justify;
+}
+article{
+    margin-left: 25%;
+    width: 74%;
+    padding: 10px;
+    height: auto;
+   
+}
+
+.titulo1{
+    margin-top: 40px;
+    text-align: center;
+    color: #12458a;
+}
+section{
+    
+    background-color: #ffeded;
+    color: #cc420c;
+}
+
+.video{
+   height: auto;
+    width: 100%;
+}
+
+
+
+footer{
+    width: 100%;
+    height:auto;
+    background-color: #fde1e1;
+    padding: 10px;
+}
+
+footer > p{
+    color: #cc420c;
+    font-size: 20px;
+    text-align: center;
+}
+.Fonte{
+    color: #12458a;
+}
